@@ -10,7 +10,7 @@ The project was designed using a simulator where the car drives around a highway
 
 For our submission, the logic was implemented and works well in the simulator. For the real world data, we will keep working after the deadline.
 
-## The Team
+## About me
 
 |           | Name                     |    E-Mail                        |      GitHub                                     |
 | --------- | -------------------------| -------------------------------- | :----------------------------------------------:|
